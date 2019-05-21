@@ -11,6 +11,9 @@
 
  .bemis-tm-mainpage-sidebar{
     width:30%;
+    color:#707070;
+    border-right:solid 1px #A5A5A5;
+    box-shadow: #000000;
 }
 .bemis-tm-mainpage-content{
     width:70%;
