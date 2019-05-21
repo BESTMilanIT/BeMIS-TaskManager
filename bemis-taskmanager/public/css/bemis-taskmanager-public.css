@@ -14,7 +14,17 @@
     color:#707070;
     border-right:solid 1px #A5A5A5;
     box-shadow: #000000;
+    background: #EBEBEB;    
+    text-align: center;
+    padding:15px;
 }
+
+.bemis-tm-mainpage-sidebar h1{    
+    font-size: 39px;
+    font-weight: bold;
+    color: #707070;
+}
+
 .bemis-tm-mainpage-content{
     width:70%;
 }
