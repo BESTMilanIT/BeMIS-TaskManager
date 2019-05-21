@@ -2,3 +2,16 @@
  * All of the CSS for your public-facing functionality should be
  * included in this file.
  */
+
+
+ .bemis-tm-mainpage-main-container{
+     display:flex;
+     flex-wrap: wrap;
+ }
+
+ .bemis-tm-mainpage-sidebar{
+    width:30%;
+}
+.bemis-tm-mainpage-content{
+    width:70%;
+}
