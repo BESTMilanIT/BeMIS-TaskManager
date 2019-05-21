@@ -3,5 +3,5 @@
 if(isset($_GET['action'])){
     $action=$_GET['action'];
 } else {
-    echo "CULO CANE";
+    echo "<h1>crisi</h1>";
 }
