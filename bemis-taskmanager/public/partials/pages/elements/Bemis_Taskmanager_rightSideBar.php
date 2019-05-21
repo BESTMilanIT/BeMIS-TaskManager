@@ -1,8 +1,8 @@
 <?php
 ?>
 
-<div class="bemis-tm-sidebar-main-menu-container">
-    <ul class="bemis-tm-sidebar-main-menu">
+<div >
+    <ul>
       <li class="bemis-tm-sidebar-main-menu-element">
         <i class="material-icons">add_circle</i><span>Crea una nuova task</span>
       </li>
