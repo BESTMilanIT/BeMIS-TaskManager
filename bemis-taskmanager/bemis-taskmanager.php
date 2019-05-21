@@ -9,14 +9,14 @@
  * that starts the plugin.
  *
  * @link              bemis.bestmilano.it
- * @since             1.0.1
+ * @since             1.0.0
  * @package           Bemis_Taskmanager
  *
  * @wordpress-plugin
  * Plugin Name:       BeMIS Task Manager
  * Plugin URI:        bemis.bestmilano.it
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            BEST Milan
  * Author URI:        bemis.bestmilano.it
  * License:           GPL-2.0+
