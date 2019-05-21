@@ -24,6 +24,18 @@
     font-weight: bold;
     color: #707070;
 }
+.bemis-tm-sidebar-main-menu{   
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+}
+.bemis-tm-sidebar-main-menu-element{
+    text-align: left;
+}
+
+.bemis-tm-sidebar-main-menu-element span{
+    font-size: 22px;
+}
 
 .bemis-tm-mainpage-content{
     width:70%;

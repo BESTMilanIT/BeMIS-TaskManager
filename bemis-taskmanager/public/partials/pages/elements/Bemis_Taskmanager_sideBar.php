@@ -3,7 +3,6 @@
 
 <div class="bemis-tm-sidebar-container">
     <h1>Task Manager</h1>
-    <div class="bemis-tm-sidebar-main-menu-container">
         <ul class="bemis-tm-sidebar-main-menu">
             <li class="bemis-tm-sidebar-main-menu-element">
                 <i class="material-icons">home</i><span>Home</span>
@@ -18,7 +17,6 @@
                 <i class="material-icons">home</i><span>Progetti</span>
             </li>
         </ul>
-</div>
 </div>
 
 <?
