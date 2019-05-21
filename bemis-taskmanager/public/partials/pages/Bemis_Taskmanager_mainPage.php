@@ -7,7 +7,7 @@
       <div class="bemis-tm-mainpage-calendar-container">
         <?php do_shortcode('[calendar id="54"]')?>
       </div>
-      <div>
+      <div class="bemis-tm-mainpage-rightsidebar">
         <ul>
           <li class="bemis-tm-sidebar-main-menu-element">
             <i class="material-icons bemis-tm-sidebar-main-menu-icon">add_circle</i><span>Crea una nuova task</span>
