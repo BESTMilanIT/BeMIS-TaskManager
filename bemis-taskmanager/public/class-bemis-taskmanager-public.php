@@ -9,7 +9,7 @@
  * @package    Bemis_Taskmanager
  * @subpackage Bemis_Taskmanager/public
  */
-//
+
 /**
  * The public-facing functionality of the plugin.
  *
