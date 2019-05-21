@@ -25,6 +25,10 @@
     color: #707070;
 }
 
+.bemis-tm-sidebar-main-menu-element span{
+    font-size: 22px;
+}
+
 .bemis-tm-mainpage-content{
     width:70%;
 }
