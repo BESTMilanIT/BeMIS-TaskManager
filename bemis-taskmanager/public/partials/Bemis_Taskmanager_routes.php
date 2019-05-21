@@ -3,8 +3,7 @@
 if(isset($_GET['action'])){
     $action=$_GET['action'];
 } else {
-    echo "<h1>crisi</h1>";
-    include plugin_dir_path(__FILE__).'partials/pages/main_page.php';
+    include plugin_dir_path(__FILE__).'partials/pages/Bemis_Taskmanager_mainPage.php';
 }
 
 if($action=='myTasks'){
