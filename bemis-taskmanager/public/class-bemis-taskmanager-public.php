@@ -51,6 +51,7 @@ class Bemis_Taskmanager_Public {
 
 		$this->plugin_name = $plugin_name;
 		$this->version = $version;
+		add_shortcode( 'Bemis_Taskmanager_page',array('Bemis_Taskmanager_Public','Bemis_Taskmanager_init') );
 
 	}
 
@@ -99,5 +100,12 @@ class Bemis_Taskmanager_Public {
 		wp_enqueue_script( $this->plugin_name, plugin_dir_url( __FILE__ ) . 'js/bemis-taskmanager-public.js', array( 'jquery' ), $this->version, false );
 
 	}
+	public static function Bemis_Taskmanager_init(){
+		if(is_user_logged_in()){			
+			include plugin_dir_path(__FILE__).'partials/Bemis_Taskmanager_routes.php';
+		}
+	}
 
 }
+
+
