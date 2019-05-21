@@ -9,7 +9,7 @@
  * that starts the plugin.
  *
  * @link              bemis.bestmilano.it
- * @since             1.0.0
+ * @since             1.0.1
  * @package           Bemis_Taskmanager
  *
  * @wordpress-plugin
