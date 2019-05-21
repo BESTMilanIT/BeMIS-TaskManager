@@ -31,6 +31,4 @@ if($action=='myTasks'){
     include plugin_dir_path(__FILE__).'partials/pages/Bemis_Taskmanager_deleteProject.php';
 } elseif($action=='deleteEvent'){
     include plugin_dir_path(__FILE__).'partials/pages/Bemis_Taskmanager_deleteEvent.php';
-} elseif($action=='editProject'){
-    include plugin_dir_path(__FILE__).'partials/pages/Bemis_Taskmanager_editProject.php';
-} 
+}
