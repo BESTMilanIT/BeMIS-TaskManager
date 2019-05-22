@@ -7,6 +7,7 @@
  .bemis-tm-mainpage-main-container{
      display:flex;
      flex-wrap: wrap;
+     flex-direction: row;
  }
 
  .bemis-tm-mainpage-sidebar{
@@ -44,19 +45,4 @@
 
 .bemis-tm-mainpage-content{
     width:70%;
-}
-
-.bemis-tm-mainpage-body{
-  display: grid;
-  grid-template-columns: auto auto auto;
-  grid-gap: 5em;
-}
-
-.bemis-tm-mainpage-calendar-container{
-  grid-row-start: 1;
-  grid-row-end: 5;
-}
-
-.bemis-tm-mainpage-rightsidebar{
-  
 }
