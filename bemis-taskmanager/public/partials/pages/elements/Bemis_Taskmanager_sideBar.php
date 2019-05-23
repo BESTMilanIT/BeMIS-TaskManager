@@ -1,6 +1,3 @@
-<?php
-?>
-
 <div class="bemis-tm-sidebar-container">
     <h1>Task Manager</h1>
         <ul class="bemis-tm-sidebar-main-menu">
@@ -18,5 +15,3 @@
             </li>
         </ul>
 </div>
-
-<?
