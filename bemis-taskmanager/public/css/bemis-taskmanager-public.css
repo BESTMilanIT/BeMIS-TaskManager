@@ -33,6 +33,7 @@
 
 .bemis-tm-sidebar-main-menu-icon {
     vertical-align: -0.15em;
+    margin-left: 0.4em;
 }
 
 .bemis-tm-sidebar-main-menu-element {
@@ -55,11 +56,11 @@
 
 .bemis-tm-mainpage-rightsidebar {
     width: 50%;
-    margin: auto;
+    margin: 2em;
 }
 
 .simcal-calendar {
-    max-height: 500px
+    max-height: 500px;
 }
 
 #custom_html-3 {
