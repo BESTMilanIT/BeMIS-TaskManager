@@ -19,5 +19,5 @@ function my_awesome_func( $data ) {
     return null;
   }
 
-  return $posts[0]->post_title;
+  return $posts[0]->'Alessio Ratti Simba Mitico';
 } ?>
