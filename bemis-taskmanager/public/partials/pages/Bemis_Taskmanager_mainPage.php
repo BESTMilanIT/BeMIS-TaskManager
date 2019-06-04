@@ -8,7 +8,9 @@
       <div class="bemis-tm-mainpage-rightsidebar">
         <ul>
           <li style="padding-bottom: 2em;" class="bemis-tm-sidebar-main-menu-element">
-            <i class="material-icons bemis-tm-sidebar-main-menu-icon" >add_circle</i><span>Crea una nuova task <?php echo $_GET['newTask'] ?></span>
+            <a href="/task-manager-2?action=newTask"> 
+              <i class="material-icons bemis-tm-sidebar-main-menu-icon">add_circle</i><span>Crea una nuova task</span>
+            </a>
           </li>
           <li style="padding-bottom: 2em;" class="bemis-tm-sidebar-main-menu-element">
             <i class="material-icons bemis-tm-sidebar-main-menu-icon">add_circle</i><span>Crea un nuovo progetto</span>
