@@ -8,7 +8,7 @@
       <div class="bemis-tm-mainpage-rightsidebar">
         <ul>
           <li style="padding-bottom: 2em;" class="bemis-tm-sidebar-main-menu-element">
-            <i href="https://bemis.bestmilano.it/task-manager-2/newTask" class="material-icons bemis-tm-sidebar-main-menu-icon" >add_circle</i><span>Crea una nuova task <?php echo $_GET['newTask'] ?></span>
+            <i class="material-icons bemis-tm-sidebar-main-menu-icon" >add_circle</i><span>Crea una nuova task <?php echo $_GET['newTask'] ?></span>
           </li>
           <li style="padding-bottom: 2em;" class="bemis-tm-sidebar-main-menu-element">
             <i class="material-icons bemis-tm-sidebar-main-menu-icon">add_circle</i><span>Crea un nuovo progetto</span>
