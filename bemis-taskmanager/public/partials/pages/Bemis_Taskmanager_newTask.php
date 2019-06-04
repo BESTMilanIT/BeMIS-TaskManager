@@ -4,8 +4,8 @@
 
   <div class="bemis-tm-mainpage-main-container">
     <form>
-      <input type="text" id="my-text-field" class="mdc-text-field__input">
-      <label class="mdc-floating-label" for="my-text-field">Hint text</label>
+      <input type="text" id="task-name" class="mdc-text-field__input">
+      <label class="mdc-floating-label" for="task-name"><h1>Task Name</h1></label>
       <div class="mdc-line-ripple"></div>
     </form>
   </div>
