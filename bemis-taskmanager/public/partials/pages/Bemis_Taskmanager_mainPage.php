@@ -23,7 +23,7 @@
             <i class="material-icons bemis-tm-sidebar-main-menu-icon">add_circle</i><span>Crea un nuovo evento a calendario</span>
           </li>
           <li class="bemis-tm-sidebar-main-menu-element">
-            <a href="/task-manager-2?action=lbgStatus"> 
+            <a href="/task-manager-2?action=lbgStatus">
               <i class="material-icons bemis-tm-sidebar-main-menu-icon">add_circle</i><span>Mostra la situazione del gruppo</span>
             </a>
           </li>
