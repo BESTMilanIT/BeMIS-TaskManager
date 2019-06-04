@@ -1,3 +1,8 @@
+<div>
+
+  Alessio Ratti Simba
+</div>
+
 <?php
 /**
  * Grab latest post title by an author!
