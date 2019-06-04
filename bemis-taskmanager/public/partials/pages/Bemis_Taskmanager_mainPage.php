@@ -2,7 +2,6 @@
     <div class="bemis-tm-mainpage-sidebar"><?php include plugin_dir_path(__FILE__).'elements/Bemis_Taskmanager_sideBar.php' ?></div>
     <div class="bemis-tm-mainpage-content">
       <div class="bemis-tm-mainpage-calendar-container">
-
         <?php echo do_shortcode('[calendar id="54"]')?>
       </div>
       <div class="bemis-tm-mainpage-rightsidebar">
