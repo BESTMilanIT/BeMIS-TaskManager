@@ -16,8 +16,8 @@ function my_awesome_func( $data ) {
   ) );
 
   if ( empty( $posts ) ) {
-    return null;
+    return 'Alessio Ratti Mitico';
   }
 
-  return $posts[0]->'Alessio Ratti Simba Mitico';
+  return $posts[0]->post_title;
 } ?>
