@@ -4,8 +4,11 @@
 
   <div class="bemis-tm-mainpage-rightsidebar">
     <ul>
+      <li style="display: flex; flex-direction: row; text-align: left;">
+        <label for="input-task-name" class="mdc-floating-label">Name</label><input id="input-task-name"class="mdc-text-field__input" type="text" placeholder="Type a task name... " aria-label="Task Name"></input>
+      </li>
       <li>
-        <label>Task Name</label><input class="mdc-text-field__input" type="text" placeholder="Type a task name... " aria-label="Task Name"></input>
+        <label>Projects</label>
       </li>
     </ul>
   </div>
