@@ -71,3 +71,9 @@
 .bemis-tm-form{
   padding-top: 2em;
 }
+
+.bemis-tm-form-element-container{
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+}
