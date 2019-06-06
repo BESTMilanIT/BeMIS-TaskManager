@@ -6,7 +6,7 @@
     <ul>
       <li class="bemis-tm-form-element-container">
         <div>
-          <label for="input-task-name" class="mdc-floating-label">Name</label><input id="input-task-name"class="mdc-text-field__input" type="text" placeholder="Type a task name... " aria-label="Task Name"></input>
+          <label for="input-task-name"><h1>Task Name<h1></label><input id="input-task-name"class="mdc-text-field__input" type="text" placeholder="Type a task name... " aria-label="Task Name"></input>
         </div>
       </li>
       <li class="bemis-tm-form-element-container">
