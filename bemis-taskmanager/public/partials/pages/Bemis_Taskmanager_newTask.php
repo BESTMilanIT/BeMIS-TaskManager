@@ -5,7 +5,9 @@
   <div class="bemis-tm-mainpage-rightsidebar">
     <ul>
       <li class="bemis-tm-form-element-container">
-        <label for="input-task-name" class="mdc-floating-label">Name</label><input id="input-task-name"class="mdc-text-field__input" type="text" placeholder="Type a task name... " aria-label="Task Name"></input>
+        <div>
+          <label for="input-task-name" class="mdc-floating-label">Name</label><input id="input-task-name"class="mdc-text-field__input" type="text" placeholder="Type a task name... " aria-label="Task Name"></input>
+        </div>
       </li>
       <li class="bemis-tm-form-element-container">
         <label>Projects</label>
